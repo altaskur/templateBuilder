@@ -1,0 +1,12 @@
+{
+  "name": "template-builder",
+  "version": "0.1.0",
+  "description": "My proyect's template builder for JS proyects",
+  "main": "templateBuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node templateBuilder.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
